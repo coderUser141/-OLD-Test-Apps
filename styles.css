@@ -1,0 +1,53 @@
+.pad{
+	height:170px;
+}
+#login{
+	background-color:#dcdcdc;
+	padding:20px;
+	width:450;
+	border-radius:5px;
+	border-bottom-color:#a1a1a1;
+	border-right-color:#a1a1a1;
+}
+.inputs{
+	height:44px;
+	width:300px;
+	border-radius:5px;
+}
+#submit{
+	height:40px;
+	width:300px;
+	background-color:#c00;
+	border-color:#bf0000; 
+	border-radius:5px;
+}
+#signintext{
+	color:#000;
+	size:15pt;
+}
+.err{
+	color:e00;
+}
+#person{
+	width:192px;
+	height:192px;
+	background-image:url(bin/person192x192color.png);
+}
+#logo{
+	background-image:url(bin/textimg200x50.jpg);
+	width:400px;
+	height:100px;
+}
+#usertxt{
+	color: #c00;
+	size:15pt;
+}
+
+.form{
+	border-radius: 10px;
+	border: 1px solid #000;
+}
+
+#regbtn{
+	border-radius: 5px;
+}
